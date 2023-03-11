@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+}
+
+span {
+    background: url("https://cdn3.iconfinder.com/data/icons/emoji-1-4/64/_heart_sexy_love-128.png");
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
